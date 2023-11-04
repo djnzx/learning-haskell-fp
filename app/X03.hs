@@ -15,7 +15,7 @@ sum1 = sum [1 .. 10]
 val :: Integer
 val = 5
 
--- Ord - typeclass for comparision
+-- Ord - typeclass for comparison
 qs :: (Ord a) => [a] -> [a]
 qs [] = []
 qs [x] = [x]
