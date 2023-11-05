@@ -24,8 +24,8 @@ cabal freeze
 - [7+. List Comprehensions](https://www.youtube.com/watch?v=xy5rciaS2ys) 15K
 - [8+. Recursive Functions](https://www.youtube.com/watch?v=WawJ8LArl54) 13K
 - [9+. Recursion - Exercises](https://www.youtube.com/watch?v=I9S61BYM9_4) 8.7K
-- [10. Higher-Order Functions](https://www.youtube.com/watch?v=dUPWjM63THs) 12K
-- [11. How To Think Recursively](https://www.youtube.com/watch?v=n6bg8L91Qew) 10K
+- [10+. Higher-Order Functions](https://www.youtube.com/watch?v=dUPWjM63THs) 12K
+- [11+. How To Think Recursively](https://www.youtube.com/watch?v=n6bg8L91Qew) 10K
 - [12. Declaring Types and Classes](https://www.youtube.com/watch?v=sYgvpTyFpZ4) 11K
 - [13. Countdown](https://www.youtube.com/watch?v=CiXDS3bBBUo) 8.6K
 - [14. Interaction](https://www.youtube.com/watch?v=wPbO-uP6adM) 7K
