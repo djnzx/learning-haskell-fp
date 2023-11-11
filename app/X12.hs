@@ -1,4 +1,5 @@
 module X12 where
+
 import System.Environment (executablePath)
 
 -- aliases
@@ -122,8 +123,14 @@ eval (Mul x y) = eval x * eval y
 
 --          Val                  Add                    Mul
 folde :: (Int -> Int) -> (Int -> Int -> Int) -> (Int -> Int -> Int) -> Expr -> Int
-folde f0 f1 f2 (Add x y) = f1 (folde f0 f1 f2 x) (folde f0 f1 f2 y)
-folde f0 f1 f2 (Mul x y) = f2 (folde f0 f1 f2 x) (folde f0 f1 f2 y)
+folde f0 f1 f2 (Add x y) = f1 xv yv
+  where
+    xv = folde f0 f1 f2 x
+    yv = folde f0 f1 f2 y
+folde f0 f1 f2 (Mul x y) = f2 xv yv
+  where
+    xv = folde f0 f1 f2 x
+    yv = folde f0 f1 f2 y
 folde f0 _ _ (Val x) = f0 x
 
 evale :: Expr -> Int

@@ -26,9 +26,9 @@ cabal freeze
 - [9+. Recursion - Exercises](https://www.youtube.com/watch?v=I9S61BYM9_4) 8.7K
 - [10+. Higher-Order Functions](https://www.youtube.com/watch?v=dUPWjM63THs) 12K
 - [11+. How To Think Recursively](https://www.youtube.com/watch?v=n6bg8L91Qew) 10K
-- [12. Declaring Types and Classes](https://www.youtube.com/watch?v=sYgvpTyFpZ4) 11K
-- [13. Countdown](https://www.youtube.com/watch?v=CiXDS3bBBUo) 8.6K
-- [14. Interaction](https://www.youtube.com/watch?v=wPbO-uP6adM) 7K
-- [15. Interaction - Exercises](https://www.youtube.com/watch?v=QqyEr33v5Zk) 3.7K
+- [12+. Declaring Types and Classes](https://www.youtube.com/watch?v=sYgvpTyFpZ4) 11K
+- [13+. Countdown](https://www.youtube.com/watch?v=CiXDS3bBBUo) 8.6K
+- [14+. Interaction](https://www.youtube.com/watch?v=wPbO-uP6adM) 7K
+- [15+. Interaction - Exercises](https://www.youtube.com/watch?v=QqyEr33v5Zk) 3.7K
 - [16. Lazy Eval](https://www.youtube.com/watch?v=R1uBhRK2AKI) 6.8K
 - [17. Reflection](https://www.youtube.com/watch?v=pr6V474h09I) 2.7K
