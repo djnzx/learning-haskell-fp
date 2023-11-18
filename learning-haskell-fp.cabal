@@ -18,10 +18,12 @@ executable learning-haskell-fp
         X11, X12, X13, X13g, X14, X14hangman, 
         X15, X16, X17,
         Y01, Y02, Y02Data, Y02Types,
-        Y04, Y05,
-        Y06, Y07, Y08, Y09, Y10,
+        Y04, Y05, Y06, 
+        Y07Monads1, Y08Monads2, Y09Monads3, Y09Monads3A, Y09Monads3B, 
+        Y10Monads4,
         Y11, Y12, Y13, Y14, Y15
     other-extensions:
     build-depends:    base ^>=4.19.0.0
+                     ,mtl ^>=2.3.1
     hs-source-dirs:   app
     default-language: Haskell2010

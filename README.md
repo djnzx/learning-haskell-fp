@@ -62,3 +62,16 @@ cabal freeze
 - [13. Making Append Vanish: Fast Reverse](https://www.youtube.com/watch?v=WQy7Bzr03R4) 2.5K
 - [14. Making Append Vanish II: Fast Flatten](https://www.youtube.com/watch?v=_mHLHP3eH3c) 1.9K
 - [15. Compiler Correctness](https://www.youtube.com/watch?v=jWS7AMBXGkU) 2.1K
+
+- [Computerphile](https://www.youtube.com/playlist?list=PLF1Z-APd9zK6mud3DkxKBQ4gUfxmU1Asy)
+- [1]()
+- [2]()
+- [3]()
+- [4]()
+- [5]()
+- [6]()
+- [7]()
+- [8]()
+- [9]()
+
+- [Haskell for imperative](https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
