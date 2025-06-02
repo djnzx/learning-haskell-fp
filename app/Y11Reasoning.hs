@@ -73,3 +73,10 @@ isZero1 n = False
 isZero2 :: Int -> Bool
 isZero2 0 = True
 isZero2 n | n/= 0 = False
+
+-- one more way to do the things
+isZero3 :: Int -> Bool
+isZero3 n =
+  case n of
+    0 -> True
+    _ -> False

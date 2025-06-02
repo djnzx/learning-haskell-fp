@@ -75,3 +75,12 @@ cabal freeze
 - [9]()
 
 - [Haskell for imperative](https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+
+### current setup
+
+- ghcup 0.1.20.0
+- stack 2.13.1
+- hls   2.5.0.0
+- cabal 3.10.2.1
+- ghc   9.6.3
+- base  4.18.1.0

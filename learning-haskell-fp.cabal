@@ -23,9 +23,11 @@ executable learning-haskell-fp
         Y10Monads4,
         Y11Reasoning, Y12Induction,
         Y13PlusL1, Y14PlusL2,
-        Y15
+        Y15,
+        U01, U02,
+        B01
     other-extensions:
-    build-depends:    base ^>=4.19.0.0
+    build-depends:    base ^>=4.18.3.0
                      ,mtl ^>=2.3.1
     hs-source-dirs:   app
     default-language: Haskell2010
